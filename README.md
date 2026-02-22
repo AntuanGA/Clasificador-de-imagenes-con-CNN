@@ -1,1 +1,1 @@
-# Clasificador-de-imagenes-con-CNN
+# Clasificador-de-imagenes-con-CNN.
