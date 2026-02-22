@@ -27,7 +27,7 @@ No quería un modelo "ladrillo" que tardara tres días en entrenar. Diseñé un 
 
 🔍 El "Mapa" de la Red Neuronal: ¿Cómo ve mi IA?
 
-![Mapa de la Red Neuronal](img/mapa-red.png)
+![Mapa de la Red Neuronal](imgmapa.png)
 
 
 💡 Lo que he aprendido
